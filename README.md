@@ -4,6 +4,13 @@
 
 [![Watch the demo](https://img.youtube.com/vi/xtnISqdUUAo/0.jpg)](https://youtube.com/shorts/xtnISqdUUAo)
 
+
+## 🔧 IoT Device Prototype
+
+![IoT Device](https://github.com/khuranadev/EchoSync/blob/main/EchoSync.png?raw=true)
+
+This is the initial functional prototype of the EchoSync IoT device. It currently works as intended, but the hardware design and casing still need refinement for better usability and portability.
+
 ## Run the app
 
 ### uv
