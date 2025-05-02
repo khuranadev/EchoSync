@@ -1,5 +1,9 @@
 # FletApp app
 
+#### 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/xtnISqdUUAo/0.jpg)](https://youtube.com/shorts/xtnISqdUUAo)
+
 ## Run the app
 
 ### uv
